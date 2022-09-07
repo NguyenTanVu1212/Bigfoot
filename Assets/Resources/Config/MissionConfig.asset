@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec4dea55278f0e949a143a3d84273454, type: 3}
+  m_Name: MissionConfig
+  m_EditorClassIdentifier: 
+  cf:
+  - Id: 0
+    Level: 0
+    IdEnemy: 1,3
+    Rate: 50,10
+    TotalTurn: 5
+    EnemyInTurn: 1,1,1,1,2
+    TimeInTurn: 12
+  - Id: 1
+    Level: 0
+    IdEnemy: 1,3
+    Rate: 50,30
+    TotalTurn: 2
+    EnemyInTurn: 2,2
+    TimeInTurn: 4
+  - Id: 2
+    Level: 0
+    IdEnemy: 1,2,3
+    Rate: 50,10,30
+    TotalTurn: 3
+    EnemyInTurn: 2,2,2
+    TimeInTurn: 2
+  - Id: 3
+    Level: 1
+    IdEnemy: 1,3
+    Rate: 100,60
+    TotalTurn: 5
+    EnemyInTurn: 1,1,1,2,2
+    TimeInTurn: 12
+  - Id: 4
+    Level: 1
+    IdEnemy: 1,2,3
+    Rate: 100,30,50
+    TotalTurn: 5
+    EnemyInTurn: 1,2,3,1,2
+    TimeInTurn: 2
+  - Id: 5
+    Level: 1
+    IdEnemy: 4
+    Rate: 1
+    TotalTurn: 2
+    EnemyInTurn: 1,2
+    TimeInTurn: 4
+  - Id: 6
+    Level: 2
+    IdEnemy: 1,2,3
+    Rate: 100,10,50
+    TotalTurn: 5
+    EnemyInTurn: 1,1,1,2,2
+    TimeInTurn: 12
+  - Id: 7
+    Level: 2
+    IdEnemy: 1,2,3
+    Rate: 60,40,40
+    TotalTurn: 5
+    EnemyInTurn: 2,2,2,3,3
+    TimeInTurn: 4
+  - Id: 8
+    Level: 2
+    IdEnemy: 1,2,3,4,8
+    Rate: 60,40,40,20,40
+    TotalTurn: 6
+    EnemyInTurn: 2,3,3,3,4,5
+    TimeInTurn: 8
+  - Id: 9
+    Level: 3
+    IdEnemy: 1,3,2
+    Rate: 70,30,20
+    TotalTurn: 5
+    EnemyInTurn: 1,1,1,2,2
+    TimeInTurn: 12
+  - Id: 10
+    Level: 3
+    IdEnemy: 1,2,3,4,8
+    Rate: 60,40,40,20,40
+    TotalTurn: 5
+    EnemyInTurn: 2,2,2,3,3
+    TimeInTurn: 4
+  - Id: 11
+    Level: 3
+    IdEnemy: 1,2,3,4,8
+    Rate: 60,40,40,20,40
+    TotalTurn: 6
+    EnemyInTurn: 2,3,3,3,4,5
+    TimeInTurn: 4

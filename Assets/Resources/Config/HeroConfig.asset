@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 286e3a1608c802041b6ff9e3798f6f5b, type: 3}
+  m_Name: HeroConfig
+  m_EditorClassIdentifier: 
+  cf:
+  - id: 0
+    nameHero: Forest_1
+    hp: 200
+    damage: 45
+    rof: 1.5
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 50
+  - id: 1
+    nameHero: Forest_2
+    hp: 200
+    damage: 45
+    rof: 1
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 2
+  - id: 2
+    nameHero: Forest_3
+    hp: 200
+    damage: 45
+    rof: 6
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 50
+  - id: 3
+    nameHero: Forest_4
+    hp: 200
+    damage: 0
+    rof: 6
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 50
+  - id: 4
+    nameHero: Forest_5
+    hp: 200
+    damage: 45
+    rof: 1
+    level: 1
+    crit: 20
+    timeEffect: 2
+    rateEffect: 50
+  - id: 5
+    nameHero: Forest_6
+    hp: 1000
+    damage: 45
+    rof: 3
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 50
+  - id: 6
+    nameHero: Forest_7
+    hp: 200
+    damage: 45
+    rof: 1
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 50
+  - id: 7
+    nameHero: Forest_8
+    hp: 200
+    damage: 45
+    rof: 1
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 50
+  - id: 8
+    nameHero: Forest_9
+    hp: 200
+    damage: 45
+    rof: 1
+    level: 1
+    crit: 100
+    timeEffect: 2
+    rateEffect: 50
+  - id: 9
+    nameHero: Forest_10
+    hp: 200
+    damage: 60
+    rof: 1
+    level: 1
+    crit: 50
+    timeEffect: 2
+    rateEffect: 50

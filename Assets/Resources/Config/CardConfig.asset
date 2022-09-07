@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 114d7021896ccfc4087100f6b56dfb08, type: 3}
+  m_Name: CardConfig
+  m_EditorClassIdentifier: 
+  cf:
+  - id: 0
+    name: Forest_01
+    timeReload: 1
+    cost: 100
+    explain: Attack enemy by normal bullet
+  - id: 1
+    name: Forest_02
+    timeReload: 1
+    cost: 150
+    explain: Attack enemy with normal bullet, sometime hero attack biggest bullet
+      , pull enemy short distance
+  - id: 2
+    name: Forest_03
+    timeReload: 1
+    cost: 400
+    explain: Produce 2 soul one time
+  - id: 3
+    name: Forest_04
+    timeReload: 1
+    cost: 100
+    explain: Produce the soul
+  - id: 4
+    name: Forest_05
+    timeReload: 1
+    cost: 500
+    explain: Attack enemy by toxic , if crit enemy will be hypnotised
+  - id: 5
+    name: Forest_06
+    timeReload: 1
+    cost: 100
+    explain: There is a lage HP and when is attack , reduce damage enemy , but this
+      hero can't attack
+  - id: 6
+    name: Forest_07
+    timeReload: 1
+    cost: 400
+    explain: Attack enemy by ice bullet , if crit enemy will be freezed
+  - id: 7
+    name: Forest_08
+    timeReload: 1
+    cost: 100
+    explain: Attack enemy with double bullet
+  - id: 8
+    name: Forest_09
+    timeReload: 1
+    cost: 300
+    explain: Attack enemy by water bullet , if crit enemy will be slow
+  - id: 9
+    name: Forest_10
+    timeReload: 1
+    cost: 200
+    explain: Attack enemy by fire bullet , if crit enemy will be bruning
