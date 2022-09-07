@@ -1,0 +1,11 @@
+Id,NameCard,TimeReload,Cost,Explain
+0,Forest_01,1,100,Attack enemy by normal bullet
+1,Forest_02,1,150,Attack enemy by normal bullet
+2,Forest_03,1,400,Produce 2 soul one time
+3,Forest_04,1,100,Produce the soul
+4,Forest_05,1,500,"Attack enemy by toxic , if crit enemy will be hypnotised"
+5,Forest_06,1,100,"There is a lage HP and when is attack , reduce damage enemy , but this hero can't attack"
+6,Forest_07,1,400,"Attack enemy by ice bullet , if crit enemy will be freezed"
+7,Forest_08,1,100,Attack enemy with double bullet
+8,Forest_09,1,300,"Attack enemy by water bullet , if crit enemy will be slow"
+9,Forest_10,1,200,"Attack enemy by fire bullet , if crit enemy will be bruning"

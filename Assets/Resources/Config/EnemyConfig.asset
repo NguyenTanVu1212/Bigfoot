@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21dce6abdc05dbc42a21b58f42eee2f5, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: 
+  cf:
+  - id: 0
+    nameEnemy: Wolf_1
+    hp: 500
+    damage: 40
+    speed: 5
+    rof: 2
+    level: 1
+    typeEnemy: Normal
+  - id: 1
+    nameEnemy: Wolf_2
+    hp: 400
+    damage: 30
+    speed: 5
+    rof: 1.2
+    level: 1
+    typeEnemy: Normal
+  - id: 2
+    nameEnemy: Wolf_3
+    hp: 500
+    damage: 30
+    speed: 12
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 3
+    nameEnemy: Wolf_4
+    hp: 1000
+    damage: 100
+    speed: 5
+    rof: 3
+    level: 1
+    typeEnemy: Normal
+  - id: 4
+    nameEnemy: Wolf_5
+    hp: 500
+    damage: 30
+    speed: 8
+    rof: 2
+    level: 1
+    typeEnemy: Normal
+  - id: 5
+    nameEnemy: Wolf_6
+    hp: 700
+    damage: 50
+    speed: 8
+    rof: 2
+    level: 1
+    typeEnemy: Normal
+  - id: 6
+    nameEnemy: Wolf_7
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 7
+    nameEnemy: Wolf_8
+    hp: 400
+    damage: 10
+    speed: 7
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 8
+    nameEnemy: Wolf_9
+    hp: 200
+    damage: 10
+    speed: 15
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 9
+    nameEnemy: Wolf_10
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 10
+    nameEnemy: Wolf_11
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 11
+    nameEnemy: Wolf_12
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 12
+    nameEnemy: Wolf_13
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 13
+    nameEnemy: Wolf_14
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 14
+    nameEnemy: Wolf_15
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 15
+    nameEnemy: Wolf_16
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 16
+    nameEnemy: Wolf_17
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 17
+    nameEnemy: Wolf_18
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
+  - id: 18
+    nameEnemy: Wolf_19
+    hp: 100
+    damage: 10
+    speed: 5
+    rof: 1
+    level: 1
+    typeEnemy: Normal
