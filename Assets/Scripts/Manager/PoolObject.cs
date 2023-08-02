@@ -20,19 +20,19 @@ public class PoolObject : MonoBehaviour
     PoolItems<HeroBehaviour> heroItem = new PoolItems<HeroBehaviour>("Hero/Forest" , "Hero" , 30);
     PoolItems<Soul> soulIteam = new PoolItems<Soul>("Item" , "Soul" , 30);
     #endregion
-    #region object Pool
+    #region List object 
     List<HeroBehaviour> lsHero = new List<HeroBehaviour>();
     List<EnemyBehaviour> lsEnemy = new List<EnemyBehaviour>();
     List<BulletBehaviour> lsbullet = new List<BulletBehaviour>();
     List<Soul> lsSoul = new List<Soul>();
     #endregion
-    #region Pool Object
+    #region Object
     public GameObject soulPool ;
     public GameObject enemyPool;
     public GameObject heroPool ;
     public GameObject bulletPool;
     #endregion
-    List<LevelData> datas = new List<LevelData>();
+    List<LevelData> datas = new List<LevelData>();// data have been load when start ,
     public string nameHero = string.Empty;
     private void Start()
     {

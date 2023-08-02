@@ -1,0 +1,117 @@
+[33mcommit 496e5567d7181d82f8374f412a2d4850ed7a8878[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;31morigin/feature[m[33m)[m
+Author: NguyenTanvu1212 <git@github.com:BigFoot-Town/BigFootGame.git>
+Date:   Wed Sep 7 14:29:43 2022 +0700
+
+    Update 7/9/2022
+
+[1mdiff --git a/Assembly-CSharp-Editor.csproj b/Assembly-CSharp-Editor.csproj[m
+[1mindex 2485d74..2ac015c 100644[m
+[1m--- a/Assembly-CSharp-Editor.csproj[m
+[1m+++ b/Assembly-CSharp-Editor.csproj[m
+[36m@@ -333,6 +333,9 @@[m
+     <Reference Include="unityplastic">[m
+       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>[m
+     </Reference>[m
+[32m+[m[32m    <Reference Include="DOTweenEditor">[m
+[32m+[m[32m      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>[m
+[32m+[m[32m    </Reference>[m
+     <Reference Include="Unity.Burst.Unsafe">[m
+       <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.Unsafe.dll</HintPath>[m
+     </Reference>[m
+[36m@@ -351,17 +354,14 @@[m
+     <Reference Include="log4netPlastic">[m
+       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>[m
+     </Reference>[m
+[31m-    <Reference Include="Unity.Burst.Cecil.Rocks">[m
+[31m-      <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>[m
+[32m+[m[32m    <Reference Include="DOTween">[m
+[32m+[m[32m      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>[m
+     </Reference>[m
+     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">[m
+       <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>[m
+     </Reference>[m
+[31m-    <Reference Include="DOTweenEditor">[m
+[31m-      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>[m
+[31m-    </Reference>[m
+[31m-    <Reference Include="DOTween">[m
+[31m-      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>[m
+[32m+[m[32m    <Reference Include="Unity.Burst.Cecil.Rocks">[m
+[32m+[m[32m      <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>[m
+     </Reference>[m
+     <Reference Include="nunit.framework">[m
+       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>[m
+[1mdiff --git a/Assembly-CSharp-firstpass.csproj b/Assembly-CSharp-firstpass.csproj[m
+[1mindex 41241da..2ce8ff1 100644[m
+[1m--- a/Assembly-CSharp-firstpass.csproj[m
+[1m+++ b/Assembly-CSharp-firstpass.csproj[m
+[36m@@ -57,11 +57,11 @@[m
+   </ItemGroup>[m
+   <ItemGroup>[m
+     <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />[m
+[31m-    <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />[m
+     <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />[m
+     <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" />[m
+[31m-    <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />[m
+     <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />[m
+[32m+[m[32m    <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />[m
+[32m+[m[32m    <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />[m
+     <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />[m
+     <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />[m
+   </ItemGroup>[m
+[36m@@ -326,14 +326,14 @@[m
+     <Reference Include="Unity.Burst.Cecil">[m
+       <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>[m
+     </Reference>[m
+[31m-    <Reference Include="Unity.Burst.Cecil.Rocks">[m
+[31m-      <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>[m
+[32m+[m[32m    <Reference Include="DOTween">[m
+[32m+[m[32m      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>[m
+     </Reference>[m
+     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">[m
+       <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>[m
+     </Reference>[m
+[31m-    <Reference Include="DOTween">[m
+[31m-      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>[m
+[32m+[m[32m    <Reference Include="Unity.Burst.Cecil.Rocks">[m
+[32m+[m[32m      <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>[m
+     </Reference>[m
+     <Reference Include="Unity.Android.Types">[m
+       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>[m
+[1mdiff --git a/Assembly-CSharp.csproj b/Assembly-CSharp.csproj[m
+[1mindex 99319ef..f3320dc 100644[m
+[1m--- a/Assembly-CSharp.csproj[m
+[1m+++ b/Assembly-CSharp.csproj[m
+[36m@@ -56,188 +56,188 @@[m
+     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />[m
+   </ItemGroup>[m
+   <ItemGroup>[m
+[31m-    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\GameViewAnimation.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02Dead.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\FSM_Forest03OnHit.cs" />[m
+[31m-    <Compile Include="Assets\FantasyMonsters\Scripts\Demo.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\Forest03_Control.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07OnHit.cs" />[m
+[31m-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\LevelGameViewAnimation.cs" />[m
+     <Compile Include="Assets\Scripts\Character\Hero\Forest_06\FSM_Forest06Dead.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\UI\HomeUI\View\LevelGameView.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\Forest02_Control.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\UI\HomeUI\View\CategoryView.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Config\ReadCSV.cs" />[m
+     <Compile Include="Assets\Scripts\UI\HomeUI\View\LoadingView.cs" />[m
+     <Compile Include="Assets\Scripts\Character\Bullet\BulletFreeze.cs" />[m
+     <Compile Include="Assets\FantasyMonsters\Scripts\SoloState.cs" />[m
+     <Compile Include="Assets\Scripts\UI\Dialog\Dialog\MissionDialog.cs" />[m
+[31m-    <Compile Include="Assets\FantasyMonsters\Scripts\Inanimate.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05Idle.cs" />[m
+[31m-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\UI\Dialog\BaseDialog.cs" />[m
+     <Compile Include="Assets\Scripts\Character\Hero\Forest_06\FSM_Forest06Attack.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Emeny\Base\EnemyBehaviour.cs" />[m
+     <Compile Include="Assets\Scripts\UI\HomeUI\View\StartView.cs" />[m
+     <Compile Include="Assets\Scripts\CardObject\Shove.cs" />[m
+     <Compile Include="Assets\GUI PRO Kit - Casual Game\Scripts\PanelCasualGame.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Bullet\BulletWater.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\UI\Dialog\BaseDialogAnimation.cs" />[m
+[31m-    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08Dead.cs" />[m
+     <Compile Include="Assets\TextMesh Pro\Exa
