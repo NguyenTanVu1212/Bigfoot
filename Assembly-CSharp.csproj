@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>UNITY_2021_3_1;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_1;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -49,195 +49,195 @@
     <UnityProjectGenerator>Package</UnityProjectGenerator>
     <UnityProjectGeneratorVersion>2.0.14</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
-    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
     <UnityVersion>2021.3.1f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\GameViewAnimation.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02Dead.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\FSM_Forest03OnHit.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\Demo.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\Forest03_Control.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07OnHit.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\LevelGameViewAnimation.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_06\FSM_Forest06Dead.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\View\LevelGameView.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\Forest02_Control.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\View\CategoryView.cs" />
-    <Compile Include="Assets\Scripts\Config\ReadCSV.cs" />
     <Compile Include="Assets\Scripts\UI\HomeUI\View\LoadingView.cs" />
     <Compile Include="Assets\Scripts\Character\Bullet\BulletFreeze.cs" />
     <Compile Include="Assets\FantasyMonsters\Scripts\SoloState.cs" />
     <Compile Include="Assets\Scripts\UI\Dialog\Dialog\MissionDialog.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\Inanimate.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05Idle.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
-    <Compile Include="Assets\Scripts\UI\Dialog\BaseDialog.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_06\FSM_Forest06Attack.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Base\EnemyBehaviour.cs" />
     <Compile Include="Assets\Scripts\UI\HomeUI\View\StartView.cs" />
     <Compile Include="Assets\Scripts\CardObject\Shove.cs" />
     <Compile Include="Assets\GUI PRO Kit - Casual Game\Scripts\PanelCasualGame.cs" />
-    <Compile Include="Assets\Scripts\Character\Bullet\BulletWater.cs" />
-    <Compile Include="Assets\Scripts\UI\Dialog\BaseDialogAnimation.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08Dead.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_04\FSM_Forest04OnHit.cs" />
-    <Compile Include="Assets\Scripts\Manager\DataManager.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\Zb01_MoveState.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_03\FSM_Forest03Idle.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_WalkState.cs" />
-    <Compile Include="Assets\Scripts\Character\Bullet\BulletBehaviour.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\Monster.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
-    <Compile Include="Assets\Resources\Hero\Forest\SpamEffect.cs" />
-    <Compile Include="Assets\Shining Coins\ShiningItem.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10Idle.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02OnHit.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\HomeSceneViewManager.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08Idle.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_01\FSM_ForestOnHit.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\LayerManager.cs" />
     <Compile Include="Assets\Scripts\UI\HomeUI\Animation\HomeViewAnimation.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_09\FSM_Forest09Dead.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_01\FSM_ForestAttack.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_09\FSM_Forest09OnHit.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_WalkState.cs" />
-    <Compile Include="Assets\Scripts\FSMSytem\FSMState.cs" />
-    <Compile Include="Assets\Scripts\CardObject\CardDemo.cs" />
-    <Compile Include="Assets\Scripts\Config\CardConfig.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\StateHandler.cs" />
-    <Compile Include="Assets\Resources\Hero\Fire\Bow.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
-    <Compile Include="Assets\Scripts\CardObject\CellManager.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_09\Forest09_Control.cs" />
-    <Compile Include="Assets\Scripts\CardObject\BoardManager.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_07\Forest07_Control.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\Zb01_AttackState.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10OnHit.cs" />
     <Compile Include="Assets\Scripts\UI\HomeUI\HomeSceneConfig.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\AnchorManager.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\View\GameView.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10Dead.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_04\FSM_Forest04Attack.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
-    <Compile Include="Assets\Scripts\UI\Dialog\DialogManager.cs" />
-    <Compile Include="Assets\Scripts\Manager\MissionManager.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_03\FSM_Forest03Dead.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05OnHit.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_DeadState.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_Control.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\HomeSceneViewAnimationBase.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\CategoryViewAnimation.cs" />
-    <Compile Include="Assets\SourcesArt\Character\Final 7 Hệ - Khoa Artist\BigFoot - Bộ phận 7 hệ Khoa Artist\Ice\ShineEffect.cs" />
-    <Compile Include="Assets\Scripts\Character\Bullet\BulletDataBinding.cs" />
-    <Compile Include="Assets\Scripts\Character\Gold\Soul.cs" />
     <Compile Include="Assets\FantasyMonsters\Scripts\CustomGrid.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_01\FSM_ForestDead.cs" />
-    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\PauseDialog.cs" />
-    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\DialogOnClick.cs" />
-    <Compile Include="Assets\Scripts\Config\HeroConfig.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_09\FSM_Forest09Idle.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_04\FSM_Forest04Idle.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\LoadingViewAnimation.cs" />
-    <Compile Include="Assets\Scripts\Character\Bullet\BulletNormal.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02Idle.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
-    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\ResultDialog.cs" />
     <Compile Include="Assets\Scripts\Manager\GameManger.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\FantasyMonsters\Scripts\Tweens\ScaleSpring.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\MonsterVariation.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\Zb01_DeadState.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07Dead.cs" />
-    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\CardReviewDialog.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Base\HeroBehaviour.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05Dead.cs" />
-    <Compile Include="Assets\Resources\Hero\Fire\Achear.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07Attack.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02Attack.cs" />
     <Compile Include="Assets\Scripts\UI\Dialog\Dialog\Dialog_ShowCardReview.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_01\FSM_ForestIdle.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08OnHit.cs" />
+    <Compile Include="Assets\Scripts\System\LoadSceneManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Bullet\BulletToxic.cs" />
+    <Compile Include="Assets\Scripts\Manager\SoulManager.cs" />
+    <Compile Include="Assets\Scripts\System\HomeSceneManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07Idle.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Base\HeroDataBinding.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\Forest05_Control.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\HomeSceneViewBase.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\GameViewAnimation.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\View\CategoryView.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\Inanimate.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05Idle.cs" />
+    <Compile Include="Assets\Scripts\UI\Dialog\BaseDialog.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08Dead.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_04\FSM_Forest04OnHit.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+    <Compile Include="Assets\Scripts\Character\Bullet\BulletBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10Idle.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02OnHit.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\Scripts\FSMSytem\FSMState.cs" />
+    <Compile Include="Assets\Scripts\Config\CardConfig.cs" />
+    <Compile Include="Assets\Resources\Hero\Fire\Bow.cs" />
+    <Compile Include="Assets\Scripts\CardObject\CellManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\Zb01_AttackState.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10Dead.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\Scripts\Manager\MissionManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_DeadState.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\CategoryViewAnimation.cs" />
+    <Compile Include="Assets\Scripts\Character\Gold\Soul.cs" />
+    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\PauseDialog.cs" />
+    <Compile Include="Assets\Scripts\Config\HeroConfig.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02Idle.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07Dead.cs" />
+    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\CardReviewDialog.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Base\HeroBehaviour.cs" />
+    <Compile Include="Assets\Resources\Hero\Fire\Achear.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_06\FSM_Forest06OnHit.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_04\Forest04_Control.cs" />
     <Compile Include="Assets\Scripts\Data\PlayerData.cs" />
-    <Compile Include="Assets\Scripts\System\StartSceneManager.cs" />
-    <Compile Include="Assets\Scripts\System\LoadSceneManager.cs" />
-    <Compile Include="Assets\Scripts\Manager\EnemyManager.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\Scripts\UI\HomeUI\Animation\StartViewAnimation.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\FSM_Forest03Attack.cs" />
-    <Compile Include="Assets\Scripts\Manager\CardManager.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_08\Forest08_Control.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08Attack.cs" />
     <Compile Include="Assets\Scripts\CardObject\CardObject.cs" />
     <Compile Include="Assets\GUI PRO Kit - Casual Game\Scripts\PanelControlCasualGame.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_AttackState.cs" />
     <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_AttackState.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Enemy02_Control.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
-    <Compile Include="Assets\Scripts\Character\Bullet\BulletToxic.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_Control.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_04\FSM_Forest04Dead.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
-    <Compile Include="Assets\Scripts\Manager\SoulManager.cs" />
     <Compile Include="Assets\Scripts\Config\MissionConfig.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_IdleState.cs" />
     <Compile Include="Assets\Scripts\Character\Bullet\BulletBurning.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10Attack.cs" />
-    <Compile Include="Assets\Scripts\System\HomeSceneManager.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_IdleState.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_01\Forest01_Control.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07Idle.cs" />
-    <Compile Include="Assets\Scripts\Manager\PoolObject.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\Tweens\TweenBase.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_DeadState.cs" />
-    <Compile Include="Assets\FantasyMonsters\Scripts\MonsterState.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Base\HeroDataBinding.cs" />
-    <Compile Include="Assets\Scripts\FSMSytem\FSMSystem.cs" />
     <Compile Include="Assets\Scripts\Character\Interface\IDebuff.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_09\FSM_Forest09Attack.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\Forest05_Control.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_06\FSM_Forest06Idle.cs" />
     <Compile Include="Assets\Scripts\UI\Dialog\DialogConfig.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\HomeSceneViewBase.cs" />
-    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05Attack.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_10\Forest10_Control.cs" />
     <Compile Include="Assets\Scripts\Character\Emeny\Base\EnemyDatabinding.cs" />
-    <Compile Include="Assets\Scripts\UI\HomeUI\View\HomeView.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
-    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\Zb01_IdleState.cs" />
     <Compile Include="Assets\Scripts\Character\Hero\Forest_06\Forest06_Control.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\FSM_Forest03OnHit.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_07\FSM_Forest07OnHit.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\View\LevelGameView.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Base\EnemyBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Character\Bullet\BulletWater.cs" />
+    <Compile Include="Assets\Scripts\UI\Dialog\BaseDialogAnimation.cs" />
+    <Compile Include="Assets\Scripts\Manager\DataManager.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\Resources\Hero\Forest\SpamEffect.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_01\FSM_ForestAttack.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_09\Forest09_Control.cs" />
+    <Compile Include="Assets\Scripts\CardObject\BoardManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10OnHit.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\AnchorManager.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\HomeSceneViewAnimationBase.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_Control.cs" />
+    <Compile Include="Assets\Scripts\Character\Bullet\BulletDataBinding.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\DialogOnClick.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_09\FSM_Forest09Idle.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\LoadingViewAnimation.cs" />
+    <Compile Include="Assets\Scripts\Character\Bullet\BulletNormal.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\MonsterVariation.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\Zb01_DeadState.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_01\FSM_ForestIdle.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08OnHit.cs" />
+    <Compile Include="Assets\Scripts\Manager\EnemyManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\CardManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08Attack.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Enemy02_Control.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_Control.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_IdleState.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_DeadState.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_06\FSM_Forest06Idle.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05Attack.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\View\HomeView.cs" />
+    <Compile Include="Assets\Scripts\Config\EnemyConfig.cs" />
+    <Compile Include="Assets\GUI PRO Kit - Casual Game\Extensions\UIParticle\UIParticleSystem.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\FSM_Forest02Dead.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\Demo.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\Forest03_Control.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\Animation\LevelGameViewAnimation.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_02\Forest02_Control.cs" />
+    <Compile Include="Assets\Scripts\Config\ReadCSV.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_WalkState.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\Monster.cs" />
+    <Compile Include="Assets\Shining Coins\ShiningItem.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\HomeSceneViewManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_08\FSM_Forest08Idle.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\LayerManager.cs" />
+    <Compile Include="Assets\Scripts\CardObject\CardDemo.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\StateHandler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+    <Compile Include="Assets\Scripts\UI\HomeUI\View\GameView.cs" />
+    <Compile Include="Assets\Scripts\UI\Dialog\DialogManager.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05OnHit.cs" />
+    <Compile Include="Assets\SourcesArt\Character\Final 7 Hệ - Khoa Artist\BigFoot - Bộ phận 7 hệ Khoa Artist\Ice\ShineEffect.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_01\FSM_ForestDead.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_04\FSM_Forest04Idle.cs" />
+    <Compile Include="Assets\Scripts\UI\Dialog\Dialog\ResultDialog.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_05\FSM_Forest05Dead.cs" />
+    <Compile Include="Assets\Scripts\System\StartSceneManager.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_03\FSM_Forest03Attack.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_05\Zb05_AttackState.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_02\Zb02_IdleState.cs" />
+    <Compile Include="Assets\Scripts\Character\Hero\Forest_10\FSM_Forest10Attack.cs" />
+    <Compile Include="Assets\Scripts\Manager\PoolObject.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\Tweens\TweenBase.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+    <Compile Include="Assets\FantasyMonsters\Scripts\MonsterState.cs" />
+    <Compile Include="Assets\Scripts\FSMSytem\FSMSystem.cs" />
+    <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\Zb01_IdleState.cs" />
     <Compile Include="Assets\Scripts\Character\Emeny\Zombie_01\ZbControl_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-    <Compile Include="Assets\Scripts\Config\EnemyConfig.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-    <Compile Include="Assets\GUI PRO Kit - Casual Game\Extensions\UIParticle\UIParticleSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -263,7 +263,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\SourcesArt\Effect\Effect_2\License.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\SourcesArt\CardBackground\Font.txt" />
     <None Include="Assets\Font\sharefonts.net.txt" />
     <None Include="Assets\SourcesArt\Character\Dragon\_TXT\LICENSES.txt" />
     <None Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Shader &amp; Materials\MobileAdditive.shader" />
@@ -306,12 +305,6 @@
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.ClusterInputModule">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.ClusterRendererModule">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
@@ -469,9 +462,6 @@
     <Reference Include="UnityEngine.VideoModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.VirtualTexturingModule">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.WindModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
     </Reference>
@@ -535,14 +525,14 @@
     <Reference Include="Unity.Burst.Cecil">
       <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Burst.Cecil.Rocks">
-      <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+      <HintPath>Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
